@@ -22,8 +22,7 @@ for col in ["Car_Name", "Fuel_Type", "Transmission"]:
     encoders[col] = LabelEncoder()
     df[col] = encoders[col].fit_transform(df[col].astype(str))
 
-X = df
-[[
+X = df[[
     "Car_Name",
     "Year",
     "Present_Price",
