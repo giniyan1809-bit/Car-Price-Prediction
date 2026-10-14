@@ -1,0 +1,6 @@
+Car_Name,Year,Present_Price,Kms_Driven,Fuel_Type,Transmission,Owner,Selling_Price
+swift,2020,8.0,30000,Diesel,Manual,0,6.0
+swift,2019,7.5,40000,Petrol,Manual,0,5.5
+city,2021,12.0,20000,Petrol,Automatic,0,10.0
+i20,2018,6.5,50000,Diesel,Manual,1,4.5
+alto,2017,4.0,60000,Petrol,Manual,0,2.5
